@@ -13,3 +13,6 @@ __This file changes the appearance of Grape Chat to a dark mode by using an CSS 
 ## Bug handling
   - If Grape doesn't appear in darkmode after restarting it, try rebooting your PC (worked in my case)
   - since this uses CSS injections and I'm not affiliated with the developers, I sadly can't give any other advice
+
+## Known Issues
+  - After reload ( ``` strg + r``` or after losing connection to the server ), the dark mode doesn't get loaded correctly
