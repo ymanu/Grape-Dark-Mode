@@ -85,21 +85,6 @@ function loadApp() {
 				newMain.webContents.insertCSS('.c01266{ color:#83888C !important;}');
 				newMain.webContents.insertCSS('.c01266:hover{ color:#337cc4 !important;}');
 
-				/* CHAT SIDEBAR */
-				/*sidebar background */
-				newMain.webContents.insertCSS('.c01441{ background: #414857 !important};');
-				/* sidebar toppers */
-				newMain.webContents.insertCSS('.c01409, .c01460{ background: #3a404e !important};');
-				/* sidebar toppers icons */
-				newMain.webContents.insertCSS('.c01461:hover{ color: #337cc4 !important};');
-				/*sidebar headers (text)*/
-				newMain.webContents.insertCSS('.c01416, .c01445, .c01502{ color: whitesmoke !important};');
-				/* sidebar member text */
-				newMain.webContents.insertCSS('.c01511, .c01512, .c01513, .c01514, .c01522 { color: darkgray !important};');
-				newMain.webContents.insertCSS('.c01511:hover, .c01512:hover, .c01513:hover, .c01514:hover, .c01522:hover { color: #337cc4 !important};');
-				/* sidebar member icons */
-				newMain.webContents.insertCSS('.c01515:before, .c01516:before, .c01517:before, .c01518:before { color: darkgray !important};');
-
 				/* CHAT */
 				/* Top bar */
 				newMain.webContents.insertCSS('.c01191{ background-color: #21242D !important;}');
