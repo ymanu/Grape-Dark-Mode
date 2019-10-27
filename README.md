@@ -1,5 +1,5 @@
 # Grape-Dark-Mode for Grape 2.19.0
-__This application changes the appearance of Grape Chat to a dark mode by using an CSS injection.__
+__This file changes the appearance of Grape Chat to a dark mode by using an CSS injection.__
 
 
 ## Usage:
