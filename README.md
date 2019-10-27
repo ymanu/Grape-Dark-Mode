@@ -2,7 +2,7 @@
 __This file changes the appearance of Grape Chat to a dark mode by using an CSS injection.__
 
 
-## Usage:
+## Usage
   1. Install **npm** on your system.
   2. Install **asar** through npm ( ```npm -g install asar``` )
   3. Decrypt app.asar located at _install-path_\Grape\resources into app folder ( ```asar extract app.asar app``` )
